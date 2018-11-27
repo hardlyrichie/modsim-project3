@@ -1,2 +1,2 @@
 # modsim-project3
-Asking how is the trajectory of a space ship affected by a moving planet's gravitational pull?
+Using a massive rocketship, how do you affect the trajectory of an incoming astroid such that it misses the earth?
